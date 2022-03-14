@@ -1,3 +1,3 @@
 # Web Game
 
-This repository is about some game run on the web.
+This repository is about some games that can run on the web.
