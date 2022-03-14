@@ -1,3 +1,3 @@
-# snake
+# Web Game
 
-website snake game
+This repository is about some game run on the web.
